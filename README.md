@@ -11,3 +11,6 @@ Automated grading of homework assignments and tests
 print to console "Hello World"
 
 ```
+
+# Warning
+- don't copy other solutions or any solution
