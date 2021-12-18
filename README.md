@@ -5,3 +5,9 @@ Automated grading of homework assignments and tests
 - solve the task 
 - commit with proper message
 - just push and check answer
+
+# Instructions
+```Python
+print to console "Hello World"
+
+```
